@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/equipoFragment"
+        android:icon="@drawable/tuequipo"
+        android:title="@string/tu_equipo" />
+
+    <item
+        android:id="@+id/pokedexFragment"
+        android:icon="@drawable/pokedex"
+        android:title="@string/pokedex" />
+
+    <item
+        android:id="@+id/generadorFragment"
+        android:icon="@drawable/generar"
+        android:title="@string/generador" />
+
+</menu>
